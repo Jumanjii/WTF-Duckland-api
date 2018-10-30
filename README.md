@@ -1,6 +1,9 @@
 # WTF-Duckland-api
 API of Duckland - the first world of WTF
 
+## Start api 
+`go run main.go`
+
 ## Example of environment setting to contribute.
 
 - Clone the repo in your $GOPATH. `mkdir -p $GOPATH/src/github.com/PublicGames; cd $GOPATH/src/github.com/PublicGames; git clone git@github.com:PublicGames/WTF-Duckland-api.git`
